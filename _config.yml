@@ -2,7 +2,7 @@
 title: Resumely
 description: Build your best resume, get your dream job!
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "resumely.co" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Resumely
